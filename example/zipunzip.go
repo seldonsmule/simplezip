@@ -1,7 +1,7 @@
 package main
 
 import (
-    "seldonsmule/simplezip"
+    "github.com/seldonsmule/simplezip"
       "log"
       "fmt"
       "flag"
