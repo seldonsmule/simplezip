@@ -1,3 +1,3 @@
-module seldonsmule/simplezip
+module github.com/seldonsmule/simplezip
 
 go 1.17
